@@ -1,9 +1,9 @@
 #CRUD System Yii
 #Index
-![image alt]()
+![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/index.png)
 
 #Create
-![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/index.png)
+![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/e252b737f7351b70c49210abc78d78f4b3178611/create.png)
 
 #After create
 ![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/after%20create.png)
