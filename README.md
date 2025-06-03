@@ -1,3 +1,29 @@
+#CRUD System Yii
+#Index
+![image alt]()
+
+#Create
+![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/index.png)
+
+#After create
+![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/after%20create.png)
+
+#Update
+![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/updte.png)
+
+#After Update
+![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/after%20update.png)
+
+#Delete
+![image alt](https://github.com/mahmoud-saber/Yii-my_CRUD/blob/193df3ca8761263a0d3c7a16e0c3d927635319f8/delet.png)
+
+
+
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
